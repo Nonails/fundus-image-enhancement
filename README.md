@@ -25,7 +25,7 @@ This project demonstrates retinal image enhancement using digital image processi
 fundus-image-enhancement/
 ├── code/
 │   └── fundus_enhancement.m         ← MATLAB source code
-├── images/                          ← Sample outputs (optional)
+├── images/                          ← Sample output
 ├── report/
 │   └── Final_Project_Report.pdf     ← Original course report
 └── README.md
@@ -36,6 +36,6 @@ fundus-image-enhancement/
 - Image Processing Toolbox
 
 ## 📌 Course Info
-- Course: Image Processing (SLOT-G2)
+- Course: Image Processing
 - Faculty: Nagaraja Rao A
 - Institution: VIT University
